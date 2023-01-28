@@ -16,9 +16,9 @@
 * Основы Java - программирования (Корпоративный университет Сбербанка)
 
 ### Сертификаты
-* [Диплом о профессиональной переподготовке - Java разработчик. Профстандарт: Разработчик Web и мультимедийных приложений](SiOXlvdr09a0B_YWl3Yu1dW4Mk5tVhN5bCF16OMHim9RoipeKOoMlDelsmUL7Zs0Hutf-9aQensYl8FKnxdDKHIA.jpg)
+* [Диплом о профессиональной переподготовке - Java разработчик. Профстандарт: Разработчик Web и мультимедийных приложений](https://github.com/elenalem3/elenalem3/blob/master/SiOXlvdr09a0B_YWl3Yu1dW4Mk5tVhN5bCF16OMHim9RoipeKOoMlDelsmUL7Zs0Hutf-9aQensYl8FKnxdDKHIA.jpg)
 * [Сертификат о прохождении обучения JAVA](https://github.com/elenalem3/elenalem3/blob/master/certificate.pdf)
-* [Основы Java - программирования](1d51c1a47c9e8f729b659f20125a06215d0e.png)
+* [Основы Java - программирования](https://github.com/elenalem3/elenalem3/blob/master/1d51c1a47c9e8f729b659f20125a06215d0e.png)
 
 
 ### Контакты
