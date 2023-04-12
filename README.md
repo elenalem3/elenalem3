@@ -34,4 +34,4 @@
 ### Контакты
 [Telegram](https://t.me/elenkagoy)
 
-[Резюме на Google-диске]( https://docs.google.com/document/d/1DkhZA2-FIPLQl0MooHK2cR4DF6wIGjZbcwR0-JlACd4/edit#heading=h.c24c6g80odcl)
+
